@@ -1,0 +1,17 @@
+IBM. (n.d.). Telco Customer Churn [Data set]. Retrieved February 15, 2026, from https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+
+Ahmadzade Jahromi, M. (n.d.). Call Center Data (Call Center Daily Performance) [Data set]. Kaggle. Retrieved February 15, 2026, from https://www.kaggle.com/datasets/satvicoder/call-center-data
+
+ziya07. (n.d.). Employee Churn Data [Data set]. Kaggle. Retrieved February 15, 2026, from https://www.kaggle.com/datasets/ziya07/employee-churn-data
+
+mexwell. (n.d.). Employee Performance and Productivity Data [Data set]. Kaggle. Retrieved February 15, 2026, from https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data
+
+Tank, P. (n.d.). Employee HR Dataset [Data set]. Kaggle. Retrieved February 15, 2026, from https://www.kaggle.com/datasets/prishatank/employee-hr-dataset
+
+City of San Francisco. (n.d.). Call Center Metrics for the Health Service System [Data set]. Data.gov. Retrieved February 15, 2026, from https://catalog.data.gov/dataset/call-center-metrics-for-the-health-service-system
+
+Metropolitan Transportation Authority. (n.d.). MTA NYCT Customer Engagement Statistics: 2017–2022 [Data set]. Data.gov. Retrieved February 15, 2026, from https://catalog.data.gov/dataset/mta-customer-engagement-statistics-beginning-may-2017
+
+Metropolitan Transportation Authority. (n.d.). MTA NYCT Paratransit Call Center Performance: Beginning 2016 [Data set]. Data.gov. Retrieved February 15, 2026, from https://catalog.data.gov/dataset/mta-access-a-ride-call-center-performance-beginning-2016
+
+FCC. (n.d.). CGB Consumer Complaints Data [Data set]. Federal Communications Commission Open Data. Retrieved February 16, 2026, from https://opendata.fcc.gov/Consumer/CGB-Consumer-Complaints-Data/
