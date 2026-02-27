@@ -1,0 +1,19 @@
+issue,p
+Billing,0.2814
+Cramming (unauthorized charges on your phone bill),0.0423
+Slamming (change of your carrier without permission),0.0312
+Number Portability (keeping your number if you change providers),0.0518
+Availability,0.0876
+Availability (including rural call completion),0.0341
+Rural Call Completion,0.0187
+Tower,0.0156
+Speed,0.0734
+Interference,0.0298
+Interference (including signal jammers),0.0089
+Equipment,0.0645
+Phone,0.0512
+Robocalls,0.0389
+Telemarketing (including do not call and spoofing),0.0276
+Junk Faxes,0.0043
+Open Internet/Net Neutrality,0.0134
+Other,0.1253

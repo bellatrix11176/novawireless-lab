@@ -1,0 +1,7 @@
+skill_tag,count,p,note
+billing_resolution,381059,0.3064547389787871,Use as weights to assign rep strengths; bias outcomes when rep skill matches issue.
+fraud_unwanted_calls,312282,0.2511429956982347,Use as weights to assign rep strengths; bias outcomes when rep skill matches issue.
+network_service,227052,0.1825994436415662,Use as weights to assign rep strengths; bias outcomes when rep skill matches issue.
+device_support,152807,0.12289023300625762,Use as weights to assign rep strengths; bias outcomes when rep skill matches issue.
+general_support,106334,0.08551578158387638,Use as weights to assign rep strengths; bias outcomes when rep skill matches issue.
+porting_transfer,63909,0.05139680709127801,Use as weights to assign rep strengths; bias outcomes when rep skill matches issue.
